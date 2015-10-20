@@ -1,13 +1,13 @@
 {
-  "name": "laterooms-ratepicker",
+  "name": "laterooms-datepicker",
   "authors": [
     "Marcus Hitchins <marcus@hhost.me>"
   ],
-  "description": "Laterooms Rate Picker - This uses laterooms xml rate feed through a proxy server that we have setup. So if you need this for yourself can you please setup your own proxy server. php code included",
-  "main": "laterooms-ratepicker.html",
+  "description": "Laterooms Date Picker - This uses laterooms xml rate feed through a proxy server that we have setup. So if you need this for yourself can you please setup your own proxy server. php code included",
+  "main": "laterooms-datepicker.html",
   "license": "MIT",
   "dependencies": {
-    "laterooms-ratepicker": "HackITtoday/laterooms-ratepicker",
+    "laterooms-datepicker": "HackITtoday/laterooms-datepicker",
     "iron-ajax": "PolymerElements/iron-ajax#^1.0.0",
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
     "paper-input": "PolymerElements/paper-input#^1.0.0",

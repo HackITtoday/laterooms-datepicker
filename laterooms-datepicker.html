@@ -3,12 +3,12 @@
 <link rel="import" href="../iron-flex-layout/classes/iron-flex-layout.html">
 <link rel="import" href="../iron-ajax/iron-ajax.html">
 <!--
-`<laterooms-ratepicker hotelid="73022" affiliateid="3095">` This is a Polymer Element that pulls in rates from Laterooms API. It is still a work in progress and what is here is pre production.
+`<laterooms-datepicker hotelid="73022" affiliateid="3095">` This is a Polymer Element that pulls in rates from Laterooms API. It is still a work in progress and what is here is pre production.
 @demo demo.html
 -->
 
 
-<dom-module id="laterooms-ratepicker">
+<dom-module id="laterooms-datepicker">
   <template>
     <style>
       paper-input {
@@ -38,7 +38,7 @@
 </dom-module>
 <script>
   Polymer({
-    is: "laterooms-ratepicker",
+    is: "laterooms-datepicker",
     properties: {
       day:{value:23},
       month:{value:2},
