@@ -11,6 +11,12 @@
     "iron-ajax": "PolymerElements/iron-ajax#^1.0.0",
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.0.0",
     "paper-input": "PolymerElements/paper-input#^1.0.0",
-    "paper-material": "PolymerElements/paper-material#^1.0.0"
+    "paper-material": "PolymerElements/paper-material#^1.0.0",
+	"paper-datepicker": "HackITtoday/paper-datepicker"
+  },
+  "resolutions": {
+    "webcomponentsjs": "^0.7.2",
+    "polymer": "^1.1.0",
+    "font-roboto": "^1.0.1"
   }
 }
